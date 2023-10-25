@@ -4,15 +4,6 @@ import "react-toastify/dist/ReactToastify.css";
 import { ToastContainer } from "react-toastify";
 import SignupPage from "./Pages/SignupPage";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Home from "./Pages/Home";
-
-// function App() {
-//   return (
-//     <div>
-//       <SignupPage />
-//     </div>
-//   );
-// }
 
 function App() {
   return (

@@ -21,7 +21,7 @@ const SignupPage = () => {
   const signupHandle = async () => {
     setLoading(true);
     try {
-      const res = await axios.post("http://localhost:4000/user/register", {
+      const res = await axios.post("http://localhost:4000/user/", {
         username: values.username,
         email: values.email,
         password: values.password,
