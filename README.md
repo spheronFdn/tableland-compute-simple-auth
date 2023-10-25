@@ -4,11 +4,11 @@
 
 ## Description
 
-AuthFusion represents a fusion of two distinct technologies, Spheron's computation capabilities and Tableland's secure on-chain authentication. This unique blend ensures not only a high level of security for user data but also offers a seamless and efficient user experience. In an era where security and performance cannot be compromised, AuthFusion emerges as a beacon of innovation.
+This example represents a fusion of two distinct technologies, Spheron's computation capabilities and Tableland's secure on-chain authentication. This unique blend ensures not only a high level of security for user data but also offers a seamless and efficient user experience. In an era where security and performance cannot be compromised, this example emerges as a beacon of innovation.
 
 ## Why did we build this?
 
-In the modern digital landscape, ensuring the security and privacy of user data is paramount. With an increasing number of cyber threats, there's a pressing need for robust authentication systems. By integrating Tableland's on-chain authentication with the computational prowess of Spheron, we've created a solution that ensures user data's utmost security while delivering fast and efficient performance. AuthFusion serves as a testament to what can be achieved when two powerful technologies converge.
+In the modern digital landscape, ensuring the security and privacy of user data is paramount. With an increasing number of cyber threats, there's a pressing need for robust authentication systems. By integrating Tableland's on-chain authentication with the computational prowess of Spheron, we've created a solution that ensures user data's utmost security while delivering fast and efficient performance. This example serves as a testament to what can be achieved when two powerful technologies converge.
 
 ## Usage:
 
