@@ -1,4 +1,4 @@
-# Merging Spheron Compute with Tableland Database for Authentication
+# Tableland-compute-simple-auth
 
 **An integration of Spheron's computational power with Tableland's secure on-chain authentication, offering an enhanced level of security combined with efficient performance.**
 
