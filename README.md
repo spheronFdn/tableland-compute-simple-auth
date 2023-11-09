@@ -10,7 +10,7 @@ This example represents a fusion of two distinct technologies, Spheron's computa
 
 In the modern digital landscape, ensuring the security and privacy of user data is paramount. With an increasing number of cyber threats, there's a pressing need for robust authentication systems. By integrating Tableland's on-chain authentication with the computational prowess of Spheron, we've created a solution that ensures user data's utmost security while delivering fast and efficient performance. This example serves as a testament to what can be achieved when two powerful technologies converge.
 
-## Usage:
+## Usage
 
 1. Clone this repository: `git clone https://github.com/spheronFdn/spheron-notification-service.git`
 2. Run `npm install` to install dependencies.
@@ -18,17 +18,17 @@ In the modern digital landscape, ensuring the security and privacy of user data 
 
 ```bash
 #RPC url endpoint which will be used to fetch data from blockchain
-RPC_URL=
+RPC_URL=xxxxxxxxxx
 
 #The private key for the wallet which handles the data entries into the table
-PRIVATE_KEY=
+PRIVATE_KEY=xxxxxxxxxx
 ```
 
 4. If you don't already have a Spheron account, [create one here](https://spheron.link).
 5. Visit [Spheron Compute docs](https://docs.spheron.network/server-guide/express/) and follow all the steps from [STEP 3](#usage).
 6. Attach a Domain/Subdomain to your instance, and you're set!
 
-## Route definitions:
+## Route definitions
 
 - `/`: Registering a user to the database.
 - `/login`: Logging in a user.
@@ -41,14 +41,14 @@ Upon arrival, a new user can register, creating an entry in the Tableland tables
 
 For assistance, discussions, or any other inquiries: [Join our Community](https://discord.com/invite/ahxuCtm).
 
-## Version History:
+## Version History
 
 - **0.1**: Initial Release
 
-## License:
+## License
 
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
-## Acknowledgments:
+## Acknowledgments
 
 - [Spheron Documentation](https://docs.spheron.network/server-guide/express/)
