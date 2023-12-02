@@ -3,7 +3,8 @@ const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
 
 const securityKey = "12345@Ra";
-const tableName = "user_information_80001_7788"; // This is your specific table name
+const tableName = ""; // This is your specific table name
+//user_information_80001_7788
 
 const userLogin = async (req, res) => {
   const { email, password } = req.body;
